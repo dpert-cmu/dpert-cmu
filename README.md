@@ -1,5 +1,4 @@
-## Hi there 👋
-
+PhD student at Carnegie Mellon University
 <!--
 **dpert-cmu/dpert-cmu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
